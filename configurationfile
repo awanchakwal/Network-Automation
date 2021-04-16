@@ -1,0 +1,7 @@
+hostname imran123
+interface loopback 99
+ip address 2.2.2.2 255.255.255.255
+no shut
+interface loopback 100
+ip address 3.3.3.3 255.255.255.255
+no shut
